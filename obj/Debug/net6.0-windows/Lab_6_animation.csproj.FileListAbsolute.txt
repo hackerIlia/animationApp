@@ -1,0 +1,17 @@
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\bin\Debug\net6.0-windows\Lab_6_animation.exe
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\bin\Debug\net6.0-windows\Lab_6_animation.deps.json
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\bin\Debug\net6.0-windows\Lab_6_animation.runtimeconfig.json
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\bin\Debug\net6.0-windows\Lab_6_animation.dll
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\bin\Debug\net6.0-windows\Lab_6_animation.pdb
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\Lab_6_animation.csproj.AssemblyReference.cache
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\Lab_6_animation.Form1.resources
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\Lab_6_animation.csproj.GenerateResource.cache
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\Lab_6_animation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\Lab_6_animation.AssemblyInfoInputs.cache
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\Lab_6_animation.AssemblyInfo.cs
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\Lab_6_animation.csproj.CoreCompileInputs.cache
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\Lab_6_animation.dll
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\refint\Lab_6_animation.dll
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\Lab_6_animation.pdb
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\Lab_6_animation.genruntimeconfig.cache
+D:\CEITI\..3 КУРС\C#\Lab_6_animation\obj\Debug\net6.0-windows\ref\Lab_6_animation.dll
